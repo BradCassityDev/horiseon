@@ -1,5 +1,3 @@
-# Code Refactor Starter Code
-
 ## HORISEON Refactor Project
 
 ## Overview:
@@ -11,4 +9,4 @@ Clone with SSH: git@github.com:BradCassityDev/horiseon-refactor.git
 
 GitHub Published Site: https://bradcassitydev.github.io/horiseon-refactor/
 
-![Working Project Screenshot](project-image.png)
+![Working Project Screenshot](/project-image.PNG)
